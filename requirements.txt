@@ -1,11 +1,10 @@
-pycaret
-Flask
-Jinja2
-pytest
-pyarrow
+#pycaret
+#Flask
+#Jinja2
+#pytest
+#pyarrow
 pandas
 numpy
-rstcheck
 scikit-learn
 mlflow
-tensorflow
+urllib3
