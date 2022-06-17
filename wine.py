@@ -62,8 +62,8 @@ if __name__ == "__main__":
     
     os.environ['MLFLOW_TRACKING_URI'] = 'postgresql+psycopg2://mlflow_user:mlflow@localhost/mlflow_db'
     #os.environ['MLFLOW_S3_ENDPOINT_URL'] = 'http://192.168.86.64:9001'
-    mlflow.create_experiment('exp2', artifact_location='/home/hadoop//mlflow123')
-    mlflow.set_experiment('exp2')
+    mlflow.create_experiment('exp3', artifact_location='/home/hadoop/mlflow123')
+    mlflow.set_experiment('exp3')
 
     with mlflow.start_run():
         lr = ElasticNet(alpha=alpha, l1_ratio=l1_ratio, random_state=42)
