@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hadoop/mlflow-wine/mlruns/0/978a08b83f774d7e988e96992ae6ed0a/artifacts
+end_time: 1655432960574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 978a08b83f774d7e988e96992ae6ed0a
+run_uuid: 978a08b83f774d7e988e96992ae6ed0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655432960564
+status: 4
+tags: []
+user_id: hadoop
